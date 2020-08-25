@@ -23,7 +23,7 @@ With plenty of problems to ponder and not much to do, I often find myself stuck 
 
 ### First Attempt
 
-If you already know me, then this is no surprise, but [I like doing computer stuff](https://i.imgur.com/Hfzf14T.gif). Once I decided I'm going to make a blog, my first idea was to build a dynamic website with both a frontend (site) and a backend (server) because hey, why not hone my web development skills in the mean time? 
+If you already know me, then this is no surprise, but [I like doing computer stuff](https://i.imgur.com/Hfzf14T.gif). Once I decided I was going to make a blog site, my first idea was to build a dynamic website with both a frontend (site) and a backend (server) because hey, why not hone my web development skills in the mean time? 
 
 I had a great plan going in. I used [FastAPI](https://fastapi.tiangolo.com/), a high performance Python backend framework, combined with [SQLAlchemy](https://www.sqlalchemy.org/) for database management. I also wanted to dip my toes in frontend development and figured [Vue.js](https://vuejs.org/) would be approachable. 
 
@@ -40,9 +40,9 @@ This whole time, I underestimated how powerful and ubiquitous static blogging ha
 
 But it seems that I've been behind the curve, because new technologies and services are bringing more and more features to static sites. One of them is [Jekyll](https://jekyllrb.com/). Jekyll has everything I'm looking for---open source, content management system, built-in pagination, a cool vertical theme---and then some. It took me just one afternoon to set it up and play with some styling, and now it's hosted on [GitHub Pages](https://pages.github.com/), free of charge and free of upkeep. This process gave me appreciation for the difference made by choosing the right tool.
 
-Also, shoutout to [@mdo](https://github.com/poole/hyde) and [@fongandrew](https://github.com/fongandrew/hydeout) for the fresh-looking theme. 
+By the way, shoutout to [@mdo](https://github.com/poole/hyde) and [@fongandrew](https://github.com/fongandrew/hydeout) for the fresh theme. 
 
-(Might sound like a sponsored message, but I pinky swear it's not)
+(Might read like a sponsored message, but I pinky swear it's not)
 
 
 ### Plans For This Website
