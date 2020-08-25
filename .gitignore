@@ -9,4 +9,4 @@ _site/
 vendor/
 
 # Ignore generated post
-# _posts/2020-08-24-welcome-to-jekyll.markdown
+_posts/2020-08-24-welcome-to-jekyll.md

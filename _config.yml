@@ -21,7 +21,9 @@
 title: Daniel Zou
 email: zoudl2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Projects and commentary of a college student.
+  Portofolio, commentary, and ramblings of a 
+  <a target="_blank" href="https://i.imgur.com/pf4UYjA.png">quarantined</a> 
+  college student.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://dlzou.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
