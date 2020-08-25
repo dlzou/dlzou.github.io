@@ -31,7 +31,7 @@ linkedin_link: https://www.linkedin.com/in/dlzou
 
 # Build settings
 # theme: minima
-remote_theme: fongandrew/hydeout
+# remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
   - jekyll-paginate
