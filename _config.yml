@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Daniel Zou
-email: zoudl2000@gmail.com
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Portfolio, commentary, and ramblings of a 
   <a target="_blank" href="https://i.imgur.com/pf4UYjA.png">distancing</a> 

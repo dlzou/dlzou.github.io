@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-Posts that aren't closely related to my projects or work.
+Posts that aren't related to my projects or work.

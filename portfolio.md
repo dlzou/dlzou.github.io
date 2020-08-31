@@ -4,4 +4,4 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Descriptions of some of my past and current projects.
+Some of my noteworthy projects.

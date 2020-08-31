@@ -13,3 +13,16 @@ $sidebar-bg-color: #222;
 $link-color: #14b866;
 
 @import "hydeout";
+
+figure.image {
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    figcaption {
+        text-align: center;
+        font-style: italic;
+        font-size: 0.75rem;
+    }
+}

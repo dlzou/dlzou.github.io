@@ -47,4 +47,4 @@ By the way, shoutout to [@mdo](https://github.com/poole/hyde) and [@fongandrew](
 
 ### Plans For This Website
 
-A main use of this website will be to show off some of my past and future projects. However, I also expect to leave some loosely organized thoughts here as they come, mostly to do with tech. It's a bit more interesting that way.
+A main use of this website will be to show off some of my past and future projects. This format lets me informally share some insights that don't really belong in a README but are still relevant to my "journey." I also expect to leave some loosely organized thoughts here as they come, mostly to do with tech. Hopefully this will keep things interesting.
