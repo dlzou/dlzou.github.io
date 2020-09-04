@@ -38,7 +38,7 @@ I still believe that the tools I used were some of the best. Impressively, all t
 
 This whole time, I underestimated how powerful and ubiquitous static blogging has become. For the unfamiliar, static sites don't talk to a backend server, which means no forms, no live updates, etc. Static sites are light and fast, but they are considered less interactive than dynamic ones. Think: those plain HTML pages you come across while searching up a physics equation.
 
-But it seems that I've been behind the curve, because new technologies and services are bringing more and more features to static sites. One of them is [Jekyll](https://jekyllrb.com/). Jekyll has everything I'm looking for---open source, content management system, built-in pagination, a cool vertical theme---and then some. It took me just one afternoon to set it up and play with some styling, and now it's hosted on [GitHub Pages](https://pages.github.com/), free of charge and free of upkeep. This process gave me appreciation for the difference made by choosing the right tool.
+But it seems that I've been behind the curve, because new technologies and services are bringing more and more features to static sites. One of them is [Jekyll](https://jekyllrb.com/). Jekyll has everything I'm looking for---open source, content management system, built-in pagination, a cool vertical theme---and then some. It took me just one afternoon to set it up and play with some styling, and now it's hosted on [GitHub Pages](https://pages.github.com/), free of charge and free of upkeep. What difference the right tool makes.
 
 By the way, shoutout to [@mdo](https://github.com/poole/hyde) and [@fongandrew](https://github.com/fongandrew/hydeout) for the fresh theme. 
 
