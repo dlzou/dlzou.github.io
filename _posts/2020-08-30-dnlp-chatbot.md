@@ -19,7 +19,7 @@ Machine learning (ML) has been the tech buzzword of the decade. I first heard th
 
 When anyone who's written code before is asked to build a chatbot, their first thought is probably: **if statements**. In fact, that's how many chatbots in the past and present are implemented, like those meme bots you play with on Discord or that nice phone lady who asks you to "press 0."
 
-{% include image.html url="/assets/img/2020-08-30-if.png" href="https://twitter.com/iamdevloper/status/830070592611172357" %}
+{% include image.html url="/assets/img/tweet-if.png" href="https://twitter.com/iamdevloper/status/830070592611172357" %}
 
 The obvious issue is that the possible inputs are limited. To build a robust program for conversations, I had to handle some randomness and intepret inputs more deeply. This is where ML comes in.
 
