@@ -44,9 +44,9 @@ print(s)
 ```
 
 But what goes on inside (assuming [CPython](https://en.wikipedia.org/wiki/CPython))?
-- A compiler breaks the code down into pieces (bytecode) that are easier for machines to digest
-- Another program called the interpreter runs this bytecode
-- The string object `s` is interally converted to a bunch of simpler data types
+- A compiler breaks down the code into pieces ([bytecode](https://en.wikipedia.org/wiki/Intermediate_representation)) that are easier for machines to digest
+- Another program called the interpreter executes this bytecode at runtime
+- The string object labeled `s` is interally converted to a bunch of simpler data types
 - Different data types have different standards for encoding information in bits
 - Data is stored in memory so that the processor can act on it part by part
 - Addresses keep track of where data is stored in memory
@@ -55,17 +55,17 @@ But what goes on inside (assuming [CPython](https://en.wikipedia.org/wiki/CPytho
 - The OS takes care of displaying the data in the right place
 - At the end, the program tells the OS it's done using memory
 
-Even in this cursory overview, the number of steps needed just to get a text back is staggering. Not every language implementation follows these steps, but generally speaking, the easier it is to write, the greater the iceberg effect. Also consider this: every step in this process requires some other program, such as the compiler or the OS, that's built on some form of abstraction itself. CPython is written in C, and C compiles down to assembly. Assembly instructions are abstractions of machine code, which are in turn abstractions of logic circuits. In professor Nikolic's words, **"It's all abstraction."** In my own words, "🤯."
+Even in this handwavy overview of a simple example, so many components need to work together without error. All just for a text back! Not every language implementation follows these steps, but generally speaking, the easier it is to write, the greater the iceberg effect. Also consider this: every step in this process requires some other program, such as the compiler or the OS, that's built on some form of abstraction itself. CPython is written in C, and C compiles down to assembly. Assembly instructions are abstractions of machine code, which are in turn abstractions of logic circuits. In professor Nikolic's words, **"It's all abstraction."** In my own words, "🤯."
 
 
 ### Built By Humans
 
 Computers are fascinating both in their simplicity and in their complexity. However, this fascination may be misdirected, because humans are the ones who designed and built every computer, after all.
 
-When I'm working with assembly, the veil that shrouds the inner workings of a computer disappears, and I begin to notice many clues that seem to shout, "a human has been here!" I'm talking about how the processor is designed, how memory is structured, how data types are encoded, how procedures are optimized, and countless other details going into the implementation of a real computer. Within each detail, I can see all the human reasoning and considerations, and why the creator made it the way it is, and *it all makes so much sense*. As the cooking analogy from earlier hopefully demonstrates, the way a computer thinks isn't so different from the way a human thinks. I believe this sets computer science apart from many other branches of science, like physics; whereas physics focuses on uncovering the laws of nature, computer science is about exploring a system created by us. 
+When I'm working with assembly, I feel like I have a flashlight to navigate the black box inside a computer, and I begin to notice many clues that seem to shout, "a human has been here!" I'm talking about how the processor is designed, how memory is structured, how data types are encoded, how procedures are optimized, and countless other details going into the implementation of a real computer. Within each detail, I can see all the human reasoning and considerations, and why the creator made it the way it is, and *it all makes so much sense*. As the cooking analogy from earlier hopefully demonstrates, the way a computer thinks isn't so different from the way a human thinks. I believe this sets computer science apart from many other branches of science, like physics. Whereas physics focuses on uncovering the laws of nature, computer science is about exploring a system created by us. 
 
-In modern computing, the sheer amount of abstractions seems to hide away all these human details, but I argue that complexity is also a human quality in and of itself. This time, look at what computers and physics have in common. Both disciplines are founded on a core set of principles, and humans build upon and evolve them to arrive at a massive yet interconnected model that fits our needs. In fact, the human penchant for complexity can be observed many disciplines outside of science too, like economics and politics. Every human endeavor becomes more complex as it progresses, and looking backwards, every system can be reduced to a few basic principles.
+In modern computing, the sheer amount of abstractions seems to hide away all these human details, but I think complexity is also a human trait in and of itself. This time, look at what computers and physics have in common: both disciplines are founded on a core set of principles, and humans build upon and evolve them to arrive at a massive yet interconnected model that fits our needs. In fact, the human penchant for complexity can be observed many disciplines outside of science too, like economics and politics. Every human endeavor becomes more complex as it progresses, and looking backwards, every system can be reduced to a few basic principles.
 
-TL;DR: **Computer science is human to its core.**
+TL;DR: **Computer science is inseparable from humans.**
 
 This is all very fancy and abstract, but here's my practical takeaway: **Don't be afraid to dig deep.** No matter how intimidating a subject may appear, it's created and studied by humans who think and reason similarly as you. Once you can grasp the few underlying concepts, all the complexity around it falls into order too.
