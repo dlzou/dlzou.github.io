@@ -12,7 +12,7 @@ categories:
 date: 2020-08-30 12:00:00 -05:00
 ---
 
-Machine learning (ML) has been the tech buzzword of the decade. I first heard the term in reference to DeepMind's [legendary Go program](https://deepmind.com/research/case-studies/alphago-the-story-so-far), and it's been on my radar ever since. This summer, I tackled a project to build a [chatbot program](https://github.com/dlzou/dnlp-chatbot) that can respond to English human dialogue inputs with coherent sentences. Sounds simple (it sure did to me at first), but there's a lot under the hood. (**Updated 2020-12-30**)
+Machine learning (ML) has been the tech buzzword of the decade. I first heard the term in reference to DeepMind's [legendary Go program](https://deepmind.com/research/case-studies/alphago-the-story-so-far), and it's been on my radar ever since. This summer, I tackled a project to build a [chatbot program](https://github.com/dlzou/dnlp-chatbot) that can respond to English human dialogue inputs with sentences. Sounds simple (it sure did to me at first), but there's a lot under the hood. (**Updated 2020-12-30**)
 
 
 ### Why Machine Learning, and How?
