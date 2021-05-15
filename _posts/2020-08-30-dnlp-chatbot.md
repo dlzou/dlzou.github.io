@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chatbot Using a Recurrent Seq2Seq Model
+title: Deep NLP Chatbot Using a Seq2Seq Model
 tags:
 - machine learning
 - RNN

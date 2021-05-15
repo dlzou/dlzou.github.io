@@ -31,3 +31,18 @@ figure.image {
         font-size: 0.75rem;
     }
 }
+
+figure.splash-image {
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        height: auto;
+    }
+    figcaption {
+        text-align: center;
+        font-style: italic;
+        font-size: 0.75rem;
+    }
+}

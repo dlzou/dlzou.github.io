@@ -3,7 +3,7 @@ layout: post
 title: Computers and Humans
 tags:
 - computer science
-- assembly
+- computer architecture
 - commentary
 categories:
 - Blog
