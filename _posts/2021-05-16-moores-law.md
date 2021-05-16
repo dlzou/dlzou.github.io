@@ -11,7 +11,7 @@ tags:
 - commentary
 categories:
 - Blog
-date: 2021-05-16 00:00:00 -05:00
+date: 2021-05-16 00:00:00 -0500
 ---
 
 {% include wide-image.html url="/assets/img/old-new-computers.jpeg" caption="An old computer (UNIVAC) and its grandchild" %}
