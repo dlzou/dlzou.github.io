@@ -25,7 +25,7 @@ But times are changing. Since about 2010, the performance of a "single" computer
 
 Are we going to let silly little things like universal laws of physics stop us? Of course not. I'd like to talk about some newer ideas in computing that let us get around Moore's Law. In fact, they're already around us.
 
-<br>
+
 ## Two Cores Are Better Than One
 
 Even if you're not sure what **cores** are, you've probably heard mentions of "dual-core" or "quad-core" processors (or more---good for you!) when you're looking for a new computer. Reusing the cooking analogy from [one of my previous posts](/blog/2020/09/27/computers-humans.html), a core is like a single cook that can follow one list of recipe instructions in order. There's a distinction between *physical* and *logical* cores, but that's beyond our scope here.
@@ -38,7 +38,7 @@ So far we've been focusing on hardware, but **parallel computing** needs both so
 
 {% include image.html id="figure-1" url="/assets/img/cooks.jpg" %}
 
-<br>
+
 ## Farming... Computers?
 
 Now we know that having multiple cores lets a computer get more work done. Can we apply this idea some other way? Not just multiple cores, but multiple computers?
@@ -53,7 +53,7 @@ Nowadays, whenever you watching a YouTube video or post a funny tweet, your comp
 
 Parallel and distributed computing go hand in hand, and they're hot topics in industry as well as active areas of research. Many libaries like [OpenMP](https://www.openmp.org/) and [OpenMPI](https://www.open-mpi.org/) are being developed for this purpose, and some new programming languages like [Go](https://golang.org/) put great emphasis on making parallel programs easier to write. One project started at UC Berkeley, [Ray](https://ray.io/), has recently been gaining a lot of momentum. Also, shameless plug: I'm personally involved with the [NumS project](https://github.com/nums-project/nums), which aims to bring the popular Python numerical library [NumPy](https://numpy.org/) to distributed systems, and it currently uses Ray behind the scenes. Of course, there are countless people around the world that share our goals of boosting the power of parallel systems and making them accessible.
 
-<br>
+
 ## Living on the Edge
 
 We've talked a lot about making computer systems bigger and more powerful, but now let's go in the opposite direction for a moment and discuss **edge computing**. To be honest, I have little experience with this topic compared to the previous ones, but I'll do my best to explain.
@@ -62,7 +62,7 @@ Edge computing takes place close to us, the end users, in devices that many of u
 
 Edge computing may be conceptually different from parallel and distributed systems, but it still works on the same principles of division of labor and strength and numbers. With processors and data storage devices being as compact as they are now, it's not too difficult to put some computing power within our reach, but it still takes creativity to envision the many different approaches.
 
-<br>
+
 ## An Exciting Time for Computers
 
 When I first learned about Moore's Law as a kid, it was explained to me as "Computers get twice as fast every two years!" At the time, kid me mistook this as some unchanging law of the universe, like Newton's laws of motion and taxes. I thought it was humanity’s destiny to build exponentially faster computers. Ask someone from the 90's about our knowledge of software and hardware design today, and they might answer with something like this---why optimize our programs and systems, when we can speed everything up just by buying next year's shiny new chip?
