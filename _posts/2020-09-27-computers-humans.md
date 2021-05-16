@@ -2,8 +2,8 @@
 layout: post
 title: Computers and Humans
 tags:
-- computer science
 - computer architecture
+- coursework
 - commentary
 categories:
 - Blog

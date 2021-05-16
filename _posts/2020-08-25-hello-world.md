@@ -2,8 +2,9 @@
 layout: post
 title: Hello World!
 tags:
-- meta
 - web development
+- personal project
+- meta
 categories:
 - Blog
 date: 2020-08-25 16:00:00 -0500

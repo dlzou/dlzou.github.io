@@ -2,7 +2,6 @@
 layout: post
 title: Beyond Moore's Law
 tags:
-- computer science
 - computer architecture
 - parallel computing
 - distributed systems

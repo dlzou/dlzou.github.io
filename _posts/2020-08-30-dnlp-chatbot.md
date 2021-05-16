@@ -5,8 +5,7 @@ tags:
 - machine learning
 - RNN
 - NLP
-- python
-- tensorflow
+- personal project
 categories:
 - Portfolio
 date: 2020-08-30 12:00:00 -0500
