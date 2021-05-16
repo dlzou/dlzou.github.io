@@ -15,6 +15,7 @@ date: 2020-08-30 12:00:00 -0500
 Machine learning (ML) has been the tech buzzword of the decade. I first heard the term in reference to DeepMind's [legendary Go program](https://deepmind.com/research/case-studies/alphago-the-story-so-far), and it's been on my radar ever since. This summer, I tackled a project to build a [chatbot program](https://github.com/dlzou/dnlp-chatbot) that can respond to English human dialogue inputs with sentences. Sounds simple (it sure did to me at first), but there's a lot under the hood. (**Updated 2020-12-30**)
 
 
+<br>
 ## Why Machine Learning, and How?
 
 When anyone who's written code before is asked to build a chatbot, their first thought is probably: **if statements**. In fact, that's how many chatbots in the past and present are implemented, like many simple Discord bots or that nice phone lady who asks you to "press 0."
@@ -30,6 +31,7 @@ However, simple is not always better, and it's no-brainer that word order is imp
 The final piece to the puzzle is **attention**. In vanilla seq2seq, the encoder spits out a single vector that stores the context of the entire input, so problems occur when the input becomes longer. Attention mechanisms get around this by letting the decoder see the whole input sequence and focus on the parts it needs to. Attention is so powerful that some people want to completely ditch RNNs for it! But for now, both seem to have their place. Lilian Weng has a [great post](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) that explains attention.
 
 
+<br>
 ## The Process
 
 This being my first ML project, I relied on a lot of tutorials, articles, and papers to get off the ground. Luckily, the seq2seq model has already been studied for years, and there are many online resources to help a beginner like me accomplish my goal. 
@@ -41,6 +43,7 @@ I chose to build my model using the Python interface of TensorFlow 2, and findin
 The time came to train my model, but this became my biggest obstacle. Although my PC is fairly powerful among laptops, it doesn't compare to the specialized, distributed solutions that are standard for the industry. The amount of training required to get reasonable results would take at least a week with my current setup, and I would have limited access to my computer that whole time. There's still hope; if I get access to some big servers and make use of the `tf.distributed` module, I can finish training and see the final results of this project.
 
 
+<br>
 ## 2020-12-30 Update
 
 After a four-mouth hiatus, I'm revisiting this project with more knowledge and resources.
@@ -50,6 +53,7 @@ One major feature I added is a **beam search decoder**. Compared to my previous 
 The next part started with a small coincidence: after becoming a member of [Berkeley CSUA](https://www.csua.berkeley.edu/) root staff this past fall, I learned that the organization maintains a GPU cluster that is open to all students. This is exactly what I need! As I'm currently typing, my chatbot model is training remotely on an absolute unit of a computer. However, I still expect the process to take some time due to the lack of parallelizeable components in RNNs. Regardless of how smart (or dumb) my chatbot ends up being, I think this a fitting conclusion to the project.
 
 
+<br>
 ## Addendum: Understanding RNNs
 
 RNNs are important for understanding how seq2seq works. I'm far from qualified to give a full lesson on RNNs, but I still want to include a few remarks on what I've learned.

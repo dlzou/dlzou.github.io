@@ -13,6 +13,7 @@ date: 2020-09-27 00:00:00 -0500
 I recently started learning [RISC-V](https://en.wikipedia.org/wiki/RISC-V) assembly in [CS 61C](https://www2.eecs.berkeley.edu/Courses/CS61C/), and I must say, getting closer to the metal has been a transformative experience. Sure, trying to write and debug assembly instructions as a beginner is painful, but it has given me incredible perspective. After years of coding, this may be the first time I'm truly wowed by computers... And even more so by humans.
 
 
+<br>
 ## The Simplicity of Computers
 
 Every high-level programming language I've come across has something in common: sprawling documentation, sometimes even from multiple sources ([looking at you C++](https://www.google.com/search?q=c%2B%2B+documentation)). So I was surprised to find out that the RISC-V reference can fit in a single sheet...
@@ -32,6 +33,7 @@ With that, we now have an intuition for how a basic assembly program does its co
 This is the first thing I find amazing; at a low level, everything computers do seem so intuitive and so mundane. Yet, these simple machine instructions can be combined in so many ways to create every program in existence. A Chinese idiom sums it up well: “麻雀虽小，五脏俱全” (a tiny sparrow still has every organ it needs).
 
 
+<br>
 ## The Complexity of Computers
 
 However, it would be a massive understatement to call modern software "a bunch of instructions." Learning an assembly language has shown me that even in basic programs, there's so much going on under the hood, all thanks to **abstraction**. 
@@ -58,6 +60,7 @@ But what goes on inside (assuming [CPython](https://en.wikipedia.org/wiki/CPytho
 Even in this handwavy overview of a simple example, so many components need to work together without error. All just for a text back! Not every language implementation follows these steps, but generally speaking, the easier it is to write, the greater the iceberg effect. Also consider this: every step in this process requires some other program, such as the compiler or the OS, that's built on some form of abstraction itself. CPython is written in C, and C compiles down to assembly. Assembly instructions are abstractions of machine code, which are in turn abstractions of logic circuits. In professor Nikolic's words, **"It's all abstraction."** In my own words, "🤯."
 
 
+<br>
 ## Built By Humans
 
 Computers are fascinating both in their simplicity and in their complexity. However, this fascination may be misdirected, because humans are the ones who designed and built every computer, after all.
