@@ -57,7 +57,7 @@ But what goes on inside (assuming [CPython](https://en.wikipedia.org/wiki/CPytho
 - The OS takes care of displaying the data in the right place
 - At the end, the program tells the OS it's done using memory
 
-Even in this handwavy overview of a simple example, so many components need to work together without error. All just for a text back! Not every language implementation follows these steps, but generally speaking, the easier it is to write, the greater the iceberg effect. Also consider this: every step in this process requires some other program, such as the compiler or the OS, that's built on some form of abstraction itself. CPython is written in C, and C compiles down to assembly. Assembly instructions are abstractions of machine code, which are in turn abstractions of logic circuits. In professor Nikolic's words, **"It's all abstraction."** In my own words, "🤯."
+Even in this handwavy overview of a simple example, so many components need to work together without error. All just for a text back! Not every language implementation follows these steps, but generally speaking, the easier it is to write, the greater the iceberg effect. Also consider this: every step in this process requires some other program, such as the compiler or the OS, that's built on some form of abstraction itself. CPython is written in C, and C compiles down to assembly. Assembly instructions are abstractions of machine code, which are in turn abstractions of logic circuits. In Professor Nikolic's words, **"It's all abstraction."** In my own words, "🤯."
 
 
 <br>
