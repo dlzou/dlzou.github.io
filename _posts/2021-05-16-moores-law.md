@@ -28,7 +28,7 @@ Are we going to let silly little things like universal laws of physics stop us? 
 <br>
 ## Two Cores Are Better Than One
 
-Even if you're not sure what **cores** are, you've probably heard mentions of "dual-core" or "quad-core" processors (or more---good for you!) when you're looking for a new computer. Reusing the cooking analogy from [one of my previous posts](/blog/2020/09/27/computers-humans.html), a core is like a single cook that can follow one list of recipe instructions in order. There's a distinction between *physical* and *logical* cores, but that's beyond our scope here.
+Even if you're not sure what **cores** are, you've probably heard mentions of "dual-core" or "quad-core" processors (or more---good for you!) when you're looking for a new computer. Reusing the cooking analogy from [one of my previous posts](/blog/2020/09/27/computers-humans.html), a core is like a single cook in the CPU "kitchen" that can follow one list of recipe instructions in order.
 
 In a simpler time, processors such as the most of the Intel Pentium series have just one core. This means that at at any given time, instructions from exactly one program are being run on the processor, and the illusion of many programs running on a computer at once is created by rapidly switching between different lists of instructions. With this model, speeding up a computer is simple in theory---make the processor do more instructions per second! More proper terms for this are **clock speed** or **frequency**. Problem is, we've already more or less pushed this method to its limit. If you look back at <a href="#figure-1">Figure 1</a>, you'll find that just comparing single cores, computers from over 10 years ago are already about as fast as ones from today.
 
@@ -37,6 +37,8 @@ Recently, we've been a lot more invested in increasing the number of cores per p
 So far we've been focusing on hardware, but **parallel computing** needs both software and hardware to work together. A programmer has many more things to consider when writing parallel code. For some intuition on this, imagine how multiple cooks in one kitchen need to communicate to make sure that they each have a defined role, that they're not competing for ingredients or utensils, and that some step of a recipe is finished before another one that relies on it begins. Since multi-core processors have become prevalent in personal computers, parallel programs are now commonplace, and in many cases, essential.
 
 {% include image.html id="figure-1" url="/assets/img/cooks.jpg" %}
+
+***Note:*** *for simplicity, I've glossed over a lot of more technical concepts like [logical vs. physical cores](https://unix.stackexchange.com/questions/88283/) and [parallelism vs. concurrency](https://stackoverflow.com/questions/1050222/).*
 
 
 <br>

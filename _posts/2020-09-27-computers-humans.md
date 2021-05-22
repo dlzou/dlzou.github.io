@@ -69,6 +69,6 @@ When I'm working with assembly, I feel like I have a flashlight to navigate the 
 
 In modern computing, the sheer amount of abstractions seems to hide away all these human details, but I think complexity is also a human trait in and of itself. This time, look at what computers and physics have in common: both disciplines are founded on a core set of principles, and humans build upon and evolve them to arrive at a massive yet interconnected model that fits our needs. In fact, the human penchant for complexity can be observed many disciplines outside of science too, like economics and politics. Every human endeavor becomes more complex as it progresses, and looking backwards, every system can be reduced to a few basic principles.
 
-TL;DR: **Computer science is inseparable from humans.**
+**TL;DR: Computer science is inseparable from humans.**
 
 This is all very fancy and abstract, but here's my practical takeaway: **Don't be afraid to dig deep.** No matter how intimidating a subject may appear, it's created and studied by humans who think and reason similarly as you. Once you can grasp the few underlying concepts, all the complexity around it falls into order too.
