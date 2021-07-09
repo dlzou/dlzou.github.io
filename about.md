@@ -5,9 +5,9 @@ sidebar_link: true
 permalink: /about/
 ---
 
-I'm a student currently attending UC Berkeley, majoring in Electrical Engineering and Computer Sciences. I love developing smarter and more efficient software, and my interests include systems, algorithm design, and AI. I'm pursuing research and teaching, but I also often work on personal projects outside of school because I enjoy exploring new topics at my own pace. I believe the process is just as meaningful as the final product, so on this site, I write about the things I learn and insights I gain on my journey.
+I'm an undergrad student at UC Berkeley majoring in Electrical Engineering and Computer Sciences. I love developing smarter and more efficient software, and my interests include systems, algorithm design, and AI. As a research assistant at Berkeley's RISELab, I'm dipping my toes into the sorts of work that push the boundaries of computing. I also enjoy doing side projects that let me navigate new topics at my own pace. Then, there are times when I step back and reflect on the things I've learned and insights I've gained on my journey; some of them are documented here on this site.
 
-When I'm away from my computer, you can probably find me by my piano or on a tennis court.
+When I'm away from my computer, there's a good chance you'll find me by my piano or on a tennis court.
 
 I am **@dlzou** on [GitHub](https://github.com/dlzou) and [LinkedIn](https://linkedin.com/in/dlzou).\
-For serious inquiries, please email **dlzou at berkeley dot edu**.
+You can also contact me through **dlzou at berkeley dot edu**.
