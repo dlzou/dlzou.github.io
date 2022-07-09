@@ -258,7 +258,7 @@ url = "https://news.ycombinator.com/submitlink?u=%s"
 # gravatarEmail =
 # Google Analytics
 #  >> See googleAnalytics
-googleAnalytics = "G-R43T8ZP6H0"
+googleAnalytics = "G-4MJRGXRYTC"
 [params.googleAnalytics]
 async = true
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
