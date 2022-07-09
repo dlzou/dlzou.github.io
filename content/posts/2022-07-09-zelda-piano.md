@@ -49,7 +49,7 @@ In the first two variations, I tried to mimic the harp duet in the recording as 
 
 The third variation in the recording introduces a flute, which I knew I couldn't adequately replicate on a piano, so I decided to go off script. I wanted something that has more drama than the second variation, but still leaves room for the future climax. At one point, I was inspired by one of my favorite pieces I've played, Chopin's [*Fantaisie Impromptu*](https://youtu.be/tvm2ZsRv3C8?t=30), to attempt to write a three-against-four polyrhythm. Just then, I stumbled upon the [*Breath of the Wild* version](https://youtu.be/vQf36-oa6p0).
 
-{{< image classes="fig-33 center clear" src="https://c.tenor.com/sTzRKKt05nMAAAAC/two-spiderman.gif" title="And I'm the impostor..." >}}
+{{< image classes="fig-33 center clear" src="https://c.tenor.com/sTzRKKt05nMAAAAC/two-spiderman.gif" title="... And I'm the impostor" >}}
 
 I realized I'd never had an original thought, and that Nintendo composers had written it better than I ever could, and all I could do was faithfully transcribe it.
 
