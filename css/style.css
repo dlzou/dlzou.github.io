@@ -1,0 +1,94 @@
+#main, #header, #bottom-bar, a.tag, a.btn {
+    background-color: #eee;
+}
+
+#header, #bottom-bar {
+    border: 1px solid #d6d9df;
+}
+
+.postShorten-group .postShorten, .post .post-footer-tags {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #d6d9df;
+}
+
+.post-content a, .postShorten-excerpt a, a.category-anchor {
+    color: #14b866;
+}
+
+a.tag--primary {
+    color: #14b886 !important;
+    border: 1px solid #14b866;
+}
+
+a.tag--primary:hover {
+    color: #109351 !important;
+    border: 1px solid #109351;
+}
+
+.figure.center {
+    width: 100%;
+}
+
+a.fancybox > img.fig-img {
+    width: 100% !important;
+}
+
+
+.figure.fig-20.center a {
+    display: block;
+    width: 20%;
+    margin: auto;
+}
+
+.figure.fig-25.center a {
+    display: block;
+    width: 25%;
+    margin: auto;
+}
+
+.figure.fig-33.center a {
+    display: block;
+    width: 33%;
+    margin: auto;
+}
+
+.figure.fig-50.center a {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.figure.fig-75.center a {
+    display: block;
+    width: 75%;
+    margin: auto;
+}
+
+.figure.fig-20.center img {
+    width: 20%;
+}
+
+.figure.fig-25.center img {
+    width: 25%;
+}
+
+
+.figure.fig-33.center img {
+    width: 33%;
+}
+
+.figure.fig-50.center img {
+    width: 50%;
+}
+
+.figure.fig-75.center img {
+    width: 75%;
+}
+
+.figure.left span.caption {
+    text-align: left;
+}
+
+.figure.right span.caption {
+    text-align: right;
+}
