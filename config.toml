@@ -3,6 +3,7 @@ languageCode = 'en-us'
 defaultContentLanguage = "en-us"
 title = 'Daniel Zou'
 theme = "tranquilpeak"
+googleAnalytics = "G-4MJRGXRYTC"
 paginate = 7
 canonifyurls = true
 
@@ -258,9 +259,6 @@ url = "https://news.ycombinator.com/submitlink?u=%s"
 # gravatarEmail =
 # Google Analytics
 #  >> See googleAnalytics
-googleAnalytics = "G-4MJRGXRYTC"
-[params.googleAnalytics]
-async = true
 # Your Facebook user ids used to connect your blog with your facebook user accounts (Facebook Insights). Separate ids with comma. e.g : 9830047,1003342
 # fbAdminIds =
 # Your Facebook app id used to connect your blog with your facebook app account (Facebook Insights). E.g : 9841307
