@@ -4,7 +4,7 @@ defaultContentLanguage = "en-us"
 title = 'Daniel Zou'
 theme = "tranquilpeak"
 # disqusShortname = ""
-# googleAnalytics = ""
+googleAnalytics = "G-4MJRGXRYTC"
 paginate = 7
 canonifyurls = true
 
