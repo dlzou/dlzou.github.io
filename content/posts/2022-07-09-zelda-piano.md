@@ -43,7 +43,7 @@ Although I had played the piano for many years, I would usually find myself in t
 
 Once the first note was placed, there was no stopping. I drafted and refined my arrangement over a couple days, and here's the [the final score](https://drive.google.com/file/d/1Ccd-xBVs_ZjjGalNOtO6XzlsUbpBk7CY/view?usp=sharing).
 
-## Breakdown
+## Score Breakdown
 
 In the first two variations, I tried to mimic the harp duet in the recording as closely as possible. I liked the counterpoint in the second variation upon first listen, and writing it out note by note helped me understand what's going on. Even though the higher voice sings the melody, there's also grace in the chord progressions of the lower voice, and the few local dissonances add a sense of intrigue. Note that the second variation is also similar in style to [*Ocarina of Time*'s version](https://youtu.be/id0kbyKCG8c?t=4) of the theme, though the lower voice uses different notes.
 
