@@ -25,63 +25,61 @@ a.tag--primary:hover {
     border: 1px solid #109351;
 }
 
+#sidebar ul.sidebar-buttons li.sidebar-button .sidebar-button-link {
+    color: #e0e0e0;
+}
+
 .figure.center {
     width: 100%;
 }
 
-a.fancybox > img.fig-img {
-    width: 100% !important;
-}
-
-
-.figure.fig-20.center a {
+.figure.fig-20.center > a.fancybox {
     display: block;
     width: 20%;
     margin: auto;
 }
 
-.figure.fig-25.center a {
+.figure.fig-25.center > a.fancybox {
     display: block;
     width: 25%;
     margin: auto;
 }
 
-.figure.fig-33.center a {
+.figure.fig-33.center > a.fancybox {
     display: block;
     width: 33%;
     margin: auto;
 }
 
-.figure.fig-50.center a {
+.figure.fig-50.center > a.fancybox {
     display: block;
     width: 50%;
     margin: auto;
 }
 
-.figure.fig-75.center a {
+.figure.fig-75.center > a.fancybox {
     display: block;
     width: 75%;
     margin: auto;
 }
 
-.figure.fig-20.center img {
+.figure.fig-20.center > img.fig-img {
     width: 20%;
 }
 
-.figure.fig-25.center img {
+.figure.fig-25.center > img.fig-img {
     width: 25%;
 }
 
-
-.figure.fig-33.center img {
+.figure.fig-33.center > img.fig-img {
     width: 33%;
 }
 
-.figure.fig-50.center img {
+.figure.fig-50.center > img.fig-img {
     width: 50%;
 }
 
-.figure.fig-75.center img {
+.figure.fig-75.center > img.fig-img {
     width: 75%;
 }
 
